@@ -2,6 +2,8 @@
 
 This project aims to provide an Azure IoT Edge module for publishing PLC Tags values to Azure IoT Edge and Azure IoT Hub.
 
+This project is moved to : https://github.com/iot-edge-foundation/iot-edge-plc-publisher/
+
 ## Usage
 
 To use the module, you need to deploy the following Azure IoT Edge module:
